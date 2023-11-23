@@ -1,0 +1,4 @@
+pydantic
+typing
+sqlalchemy
+black
